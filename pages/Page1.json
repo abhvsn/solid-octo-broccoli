@@ -8,12 +8,12 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 995,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5016,
+          "bottomRow": 5010,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -22,6 +22,7 @@
           "version": 54,
           "minHeight": 1292,
           "parentColumnSpace": 1,
+          "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": []
